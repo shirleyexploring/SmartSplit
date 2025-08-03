@@ -1,8 +1,5 @@
 # 🧾 SmartSplit – Household Bill‑Sharing Bot
 
-![CI](https://github.com/YOUR_GH_USERNAME/smartsplit/actions/workflows/ci.yml/badge.svg)
-![Docker Pulls](https://img.shields.io/docker/pulls/your-docker-hub/smartsplit)
-
 ## 📌 Project Status
 **Stage:** Prototype  
 The codebase delivers a minimal end‑to‑end flow: you can send a receipt photo to the Telegram bot, it parses the total with Tesseract, splits the cost equally across two hard‑coded members, and returns placeholder pay‑links. From here we will iterate toward Alpha (custom splits, CSV export) and beyond.
